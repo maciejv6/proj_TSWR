@@ -5,4 +5,4 @@ Proces sortowania
 * Jacek Krzemiński
 * Szymon Śliwiński
 ### Schemat procesu:
-![alt](https://raw.githubusercontent.com/maciejv6/proj_TSWR/main/diagram_ts_mbed_v1.1.png)
+![alt](https://raw.githubusercontent.com/maciejv6/proj_TSWR/main/diagram_ts_mbed_v1.2.png)
