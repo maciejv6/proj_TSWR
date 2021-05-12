@@ -164,4 +164,5 @@ for path in slave_paths:
         # launch a transition in our supervisor
         slave_transitions[event]._run(supervisor)
         print(supervisor.current_state)
+        
 
